@@ -20,7 +20,7 @@ app.use(cors({
     "http://localhost:5173",
     "https://pos-frontend-bahrain.onrender.com",
     "https://al-sayeda.hasnova.com",
-    "https://pos-demo-live-frontend.onrender.com/"
+    "https://pos-demo-live-frontend.onrender.com"
   ],
 }));
 app.use(express.json());
